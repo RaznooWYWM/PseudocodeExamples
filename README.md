@@ -1,0 +1,2 @@
+# PseudocodeExamples
+examples of pseudocode
